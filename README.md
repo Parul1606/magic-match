@@ -31,6 +31,6 @@ Welcome to the memory game, it is a popular cognitive activity that challenges p
 
 <br>
 
-![Startscreen](magic-match\magic-match-memory\public\ss\img1.png)
+![Startscreen](magic-match-memory/public/img/ss/img1.png)
 
 ![game](magic-match-memory/public/img/ss/img.png)
