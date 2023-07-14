@@ -1,5 +1,4 @@
 # magic-match
-## Magic-Match ##
 ---
 
 <br>
