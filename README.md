@@ -7,8 +7,6 @@
 
 Welcome to the memory game, it is a popular cognitive activity that challenges players to remember and recall a series of information or patterns. The game typically involves a set of cards or tiles, each containing a symbol, number, or image. The objective is to match pairs of identical cards by flipping them over, one at a time, to reveal their contents.
 
-- 
-
 <br>
 
 ## **How to play? 🕹️**
@@ -25,7 +23,7 @@ Welcome to the memory game, it is a popular cognitive activity that challenges p
 
 6. Scoring: At the end of the game, players count their pairs to determine their scores. The player with the most matched pairs wins the game.
 
-- 
+
 
 <br>
 
